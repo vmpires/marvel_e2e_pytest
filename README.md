@@ -4,7 +4,7 @@
 
 #### Getting started
 
-1) First, it's necessary to clone [Marvel API](https://github.com/vmpires/marvel_api) and Marvel PyTest
+1) First, it's necessary to clone [Marvel API](https://github.com/vmpires/marvel_cru_api) and Marvel PyTest
 
 2) Install application requirements ([Poetry](https://python-poetry.org/) is needed)
         
